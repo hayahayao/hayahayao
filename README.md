@@ -1,6 +1,6 @@
-<h1 align="center">Hi there, I'm hayahayao 👋</h1>
+<h1 align="center">Hi there 👋</h1>
 
-<table>
+<table align="center" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
   <tr>
     <td valign="top" width="50%">
       💻 Frontend engineer <br />
